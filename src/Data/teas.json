@@ -1,0 +1,20 @@
+{"products":{
+"-MvoGe4ZsnRq-SLqg-Nl":{"id":1,"Tea_Name":"Sunday Morning Rain","tea_type":"Black","sku":"ES88 8037 4772 9715 4340 0081","price":"$12.77","picture":"http://dummyimage.com/142x100.png/cc0000/ffffff"},
+"-MvoGe4_y6PKExHTKwEF":{"id":2,"Tea_Name":"Saturday Night Fever","tea_type":"Herbal","sku":"MC59 7343 0556 53TO QTFU CUQG 829","price":"$18.03","picture":"http://dummyimage.com/232x100.png/ff4444/ffffff"},
+"-MvoGe4aGSqo3PR1e7R4":{"id":3,"Tea_Name":"Finally Friday","tea_type":"White","sku":"FI80 0947 0898 6181 74","price":"$11.08","picture":"http://dummyimage.com/250x100.png/ff4444/ffffff"},
+"-MvoGe4bVfUYljm31NBE":{"id":4,"Tea_Name":"Thursday Evening","tea_type":"rooibos","sku":"MD11 1CVI UIPS C2W5 THCW G23P","price":"$10.76","picture":"http://dummyimage.com/100x100.png/dddddd/000000"},
+"-MvoGe4c64eeqzbPFIKY":{"id":5,"Tea_Name":"Wednesday Morning","tea_type":"Oolong","sku":"BE90 9713 4516 6349","price":"$11.51","picture":"http://dummyimage.com/109x100.png/5fa2dd/ffffff"},
+"-MvoGe4dCVi0Wrm65ltA":{"id":6,"Tea_Name":"Tuesday afternoon","tea_type":"Green","sku":"LI98 6576 4YWE OU1C KJDC H","price":"$16.22","picture":"http://dummyimage.com/246x100.png/dddddd/000000"},
+"-MvoGe4e_Gu8VabCEnXv":{"id":7,"Tea_Name":"It's Monday Again","tea_type":"Black","sku":"IT92 V939 2426 302B ZXSI YXHH EJH","price":"$12.89","picture":"http://dummyimage.com/155x100.png/dddddd/000000"},
+"-MvoGe4e_Gu8VabCEnXw":{"id":8,"Tea_Name":"Saturday Morning","tea_type":"pu-erh","sku":"CZ89 6855 1840 8814 5142 9885","price":"$19.44","picture":"http://dummyimage.com/160x100.png/5fa2dd/ffffff"},
+"-MvoGe4fGMohsmET0Yj8":{"id":9,"Tea_Name":"You survived another Monday","tea_type":"green","sku":"FR19 4441 5861 17LR XSGL PDTZ 889","price":"$17.46","picture":"http://dummyimage.com/150x100.png/cc0000/ffffff"},
+"-MvoGe4g36z9hIEWpoMy":{"id":10,"Tea_Name":"Its finally the Weekend","tea_type":"Mate","sku":"FI39 4298 4522 1633 50","price":"$16.33","picture":"http://dummyimage.com/232x100.png/5fa2dd/ffffff"}
+},
+"sale":{
+"-MvoGe4fGMohsmET0Yj8":{"id":9,"Tea_Name":"You survived another Monday","tea_type":"green","sku":"FR19 4441 5861 17LR XSGL PDTZ 889","price":"$17.46","picture":"http://dummyimage.com/150x100.png/cc0000/ffffff"},
+"-MvoGe4g36z9hIEWpoMy":{"id":10,"Tea_Name":"Its finally the Weekend","tea_type":"Mate","sku":"FI39 4298 4522 1633 50","price":"$16.33","picture":"http://dummyimage.com/232x100.png/5fa2dd/ffffff"}
+
+}
+}
+
+
