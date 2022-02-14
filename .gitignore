@@ -1,0 +1,14 @@
+# Ignore node_modules folder
+/node_modules
+
+# parcel Development Files
+
+/dist
+/.parcel-cache
+/public
+
+#firebase files
+/src/js/libs/firebase/firebaseConfig.js
+
+#os Files 
+.DS_Store
